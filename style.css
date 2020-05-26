@@ -1,0 +1,33 @@
+body {
+    background-color:#800080 ;
+}
+
+#container {
+    width: 800px;
+    margin: auto;
+    background-color: lime;
+}
+
+header {
+    padding: 40px;
+    height: 80px;
+}
+
+nav {
+    padding: 8px 40px;
+    background-color: black;
+    color:lime ;
+}
+
+#contents{
+    padding: 40px;
+    height : 400px;
+    font-size:3rem;
+}
+
+footer {
+    padding: 40px;
+    height: 40px;
+    background-color : black;
+    color: lime;
+}
